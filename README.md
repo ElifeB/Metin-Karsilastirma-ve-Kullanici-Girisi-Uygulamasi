@@ -1,1 +1,2 @@
-# odev5
+# Metin Karşılaştırma ve Kullanıcı Girişi Uygulaması
+Bu repo, kullanıcı girişi ve metin karşılaştırma işlemlerini gerçekleştiren bir Python uygulamasını içeriyor. Uygulama, SQLite veritabanına bağlı olarak çalışmaktadır ve kullanıcı adı ve şifre ile giriş yapma, kayıt olma, şifre güncelleme ve metin karşılaştırma gibi işlemleri içermektedir. Ayrıca, metinleri iki farklı algoritma kullanarak karşılaştırma seçeneği sunmaktadır.
